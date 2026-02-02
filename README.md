@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Hamo(111|od)|https://hamood.dev)" title="👋 Hi there! I'm (Hamo(111|od)|https://hamood.dev)"/>](https://hamood.dev/)
+[<img src="" alt="👋 Hi there! I'm (Hamo(111|od)|https://hamood.dev)" title="👋 Hi there! I'm (Hamo(111|od)|https://hamood.dev)"/>](https://hamood.dev/)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
 
